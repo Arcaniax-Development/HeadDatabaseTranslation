@@ -24,6 +24,7 @@ messages.headItemColor: &9
 messages.categoryColor: &c&l
 messages.categoryLoreColor: &e
 
+messages.suggest: &bHier kannst du Köpfe vorschlagen:
 messages.noPermission: &cDu hast keine Erlaubnis dies zu tun!
 messages.notEnoughMoney: &cDu hast nicht genügend Geld um dies zu tun!
 messages.notEnoughSpace: &cDu hast nicht genügend Platz in deinem Inventar!
@@ -41,6 +42,8 @@ messages.chatSearch: &bGebe deine Suche ein
 messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es gleich erneut!
 messages.customCommandItemName: &cZurück zum Hauptmenü
 
+# Kategorien
+
 category.alphabet: Alphabet
 category.animals: Tiere
 category.blocks: Blöcke
@@ -57,3 +60,18 @@ category.custom3: Benutzerdefinierte Köpfe 3
 category.custom4: Benutzerdefinierte Köpfe 4
 category.custom5: Benutzerdefinierte Köpfe 5
 category.online_players: Online-Spieler
+category.disabled: Deaktiviert
+
+# Events
+
+event.halloween: &eHalloween
+event.christmas: &bWeihnachten
+event.newYear: &6Frohes neues Jahr
+event.valentines: &cValentinstag
+event.4thOfJuly: &cFröhlichen 4. Juli
+event.easter: &fOstern
+event.winter: &fWinter
+event.summer: &6Sommer
+event.MayThe4th: &3Möge die Macht mit dir sein
+event.piDay: &3Pi Tag
+event.pokemon: &6Pokémon Tag
