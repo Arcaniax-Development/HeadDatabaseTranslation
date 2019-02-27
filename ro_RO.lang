@@ -7,7 +7,7 @@
 # 'database' poate contine %count%b 
 
 messages.prefix: &6HeadDB> &r
-messages.database: &4Head DB&8 %count% heads
+messages.database:&8%count% de capete in &4Head DB 
 messages.search: &4Head Search&8 %count% heads
 messages.page: Pagina
 messages.price: &aPret: &2
@@ -17,7 +17,7 @@ messages.other: altele
 messages.loading: &c..Se incarca..
 messages.recentHeads: &aAdaugate recent
 messages.noPermissionToBuyLore: &cFara permisiune
-messages.searchCommand: &7/hdb search [intrare]
+messages.searchCommand: &7/hdb search [nume]
 messages.pheadCommand: /phead [nume]
 messages.loreColor: &8
 messages.headItemColor: &9
