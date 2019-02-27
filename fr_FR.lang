@@ -24,6 +24,7 @@ messages.headItemColor: &9
 messages.categoryColor: &c&l
 messages.categoryLoreColor: &e
 
+messages.suggest: &bIci vous pouvez proposer de nouvelles têtes:
 messages.noPermission: &cVous n'avez pas la permission de faire ça!
 messages.notEnoughMoney: &cVous n'avez pas assez d'argent pour faire ça!
 messages.notEnoughSpace: &cVous n'avez pas assez d'espace dans votre inventaire!
@@ -41,6 +42,8 @@ messages.chatSearch: &bEntrez votre recherche
 messages.databaseStillLoading: &cLa base de données est en cours de chargement, essayez à nouveau!
 messages.customCommandItemName: &cRetour au menu principal
 
+# NOMS DE CATÉGORIE
+
 category.alphabet: Alphabet
 category.animals: Animaux
 category.blocks: Blocs
@@ -57,3 +60,18 @@ category.custom3: Têtes personnalisées 3
 category.custom4: Têtes personnalisées 4
 category.custom5: Têtes personnalisées 5
 category.online_players: Joueurs en ligne
+category.disabled: Désactivé
+
+# NOMS DES EVENEMENTS
+
+event.halloween: &eHalloween
+event.christmas: &bNoël
+event.newYear: &6Bonne année
+event.valentines: &cLa Saint Valentin
+event.4thOfJuly: &cJoyeux 4 juillet
+event.easter: &fPâques
+event.winter: &fHiver
+event.summer: &6Été
+event.MayThe4th: &3Que le 4 soit avec toi
+event.piDay: &3Jour de pi
+event.pokemon: &6Journée Pokémon
