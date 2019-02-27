@@ -22,7 +22,7 @@ messages.pheadCommand: /phead [닉네임]
 messages.loreColor: &8
 messages.headItemColor: &9
 messages.categoryColor: &c&l
-messages.categoryLoreColor: &e
+messages.categoryLoreColor: &e&o
 
 messages.suggest: &b이 링크에서 추가하고 싶은 머리를 건의할 수 있습니다.:
 messages.noPermission: &c당신은 이 명령어에 대한 권한이 없습니다!
