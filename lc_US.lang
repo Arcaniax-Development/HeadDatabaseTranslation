@@ -29,7 +29,6 @@ messages.notEnoughMoney: &cCat bancc says u broke, get more coin!!1!
 messages.notEnoughSpace: &cDelete inventori, heds be more importans uwu!!!1
 messages.buyMessage: &aU buy'd %item% &afor &2%price%
 messages.backToMenu: &cBacc to menu uwu
-messages.lookingFor: &eLooking for
 messages.clickToSearch: &a&n&lPress dis&b to find the heds owo
 messages.noHeadsFound: &eNo heds found, try again!...u dingus
 messages.moreSpecific: &ePls be specifical!>;(
