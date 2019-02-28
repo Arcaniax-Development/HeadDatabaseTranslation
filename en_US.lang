@@ -25,6 +25,7 @@ messages.categoryColor: &c&l
 messages.categoryLoreColor: &e
 
 messages.suggest: &bYou can suggest heads here:
+messages.submit: &bYou can submit heads here:
 messages.noPermission: &cYou are not allowed to do that!
 messages.notEnoughMoney: &cYou don't have enough money to do this!
 messages.notEnoughSpace: &cYou don't have enough space in your inventory!
