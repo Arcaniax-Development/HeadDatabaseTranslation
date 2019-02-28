@@ -38,7 +38,7 @@ messages.searchForHeads: &cSuche nach Köpfen
 messages.pluginInfo: &cPlugin Info
 messages.pluginSuggest: &cHier kannst du neue Köpfe vorschlagen
 messages.pluginSuggestLore: &7Bitte prüfe zuerst die Datenbank!
-messages.chatSearch: &bGebe deine Suche ein
+messages.chatSearch: &bGebe deine Suche ein (nutze englische Begriffe)
 messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es gleich erneut!
 messages.customCommandItemName: &cZurück zum Hauptmenü
 
@@ -50,7 +50,7 @@ category.blocks: Blöcke
 category.decoration: Dekoration
 category.food_drinks: Essen und Trinken
 category.humans: Menschen
-category.humanoid: Menschenähnlich
+category.humanoid: Humanoid
 category.miscellaneous: Sonstige
 category.monsters: Monster
 category.plants: Pflanzen
