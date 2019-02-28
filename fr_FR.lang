@@ -1,6 +1,6 @@
 # fr_FR.lang
 
-! &bUtilisez &3"fr_FR.lang" &bcréé par &6Knatschkopp
+! &bUtilisez &3"fr_FR.lang" &bcréé par &6Knatschkopp et &6Skollrun
 
 # Ici, vous pouvez modifier les messages, utiliser & pour utiliser les couleurs.
 # buyMessage doit contenir %Item% et %price%
@@ -31,13 +31,13 @@ messages.notEnoughSpace: &cVous n'avez pas assez d'espace dans votre inventaire!
 messages.buyMessage: &aVous avez acheté %item% &apour &2%price%
 messages.backToMenu: &cRetour au menu
 messages.clickToSearch: &a&n&lCliquez ici ici&b pour chercher des têtes
-messages.noHeadsFound: &eAucune tête trouvée, essayez à nouveau!
-messages.moreSpecific: &eS'il vous plaît être spécifique!
+messages.noHeadsFound: &eAucune tête trouvée, veuillez réessayer!
+messages.moreSpecific: &eS'il vous plaît soyez plus spécifique!
 messages.headsFound: &eDes têtes trouvées!
 messages.searchForHeads: &cRecherche de têtes
 messages.pluginInfo: &cInfo plugin
 messages.pluginSuggest: &cIci vous pouvez proposer de nouvelles têtes
-messages.pluginSuggestLore: &7S'il vous plaît vérifier la base de données d'abord!
+messages.pluginSuggestLore: &7S'il vous plaît vérifiez la base de données d'abord!
 messages.chatSearch: &bEntrez votre recherche
 messages.databaseStillLoading: &cLa base de données est en cours de chargement, essayez à nouveau!
 messages.customCommandItemName: &cRetour au menu principal
@@ -50,7 +50,7 @@ category.blocks: Blocs
 category.decoration: Décoration
 category.food_drinks: Nourriture et boisson
 category.humans: Personnes
-category.humanoid: Menschenähnlich
+category.humanoid: Humanoïde
 category.miscellaneous: Divers
 category.monsters: Monstres
 category.plants: Plantes
@@ -72,6 +72,6 @@ event.4thOfJuly: &cJoyeux 4 juillet
 event.easter: &fPâques
 event.winter: &fHiver
 event.summer: &6Été
-event.MayThe4th: &3Que le 4 soit avec toi
+event.MayThe4th: &3Que la Force soit avec toi
 event.piDay: &3Jour de pi
 event.pokemon: &6Journée Pokémon
