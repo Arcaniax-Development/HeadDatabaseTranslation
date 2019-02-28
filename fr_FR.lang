@@ -24,7 +24,8 @@ messages.headItemColor: &9
 messages.categoryColor: &c&l
 messages.categoryLoreColor: &e
 
-messages.suggest: &bIci vous pouvez proposer de nouvelles têtes:
+messages.suggest: &bVous pouvez proposer de nouvelles têtes:
+messages.submit: &bVous pouvez suggérer des têtes ici:
 messages.noPermission: &cVous n'avez pas la permission de faire ça!
 messages.notEnoughMoney: &cVous n'avez pas assez d'argent pour faire ça!
 messages.notEnoughSpace: &cVous n'avez pas assez d'espace dans votre inventaire!
