@@ -1,12 +1,12 @@
 # ko_KR.lang
 
-! &b한국어 기본 파일 사용&3"ko_KR.lang" &b번역가 &6인테그랄
+! &b한국어 패치&3"ko_KR.lang" &b번역가 &6인테그랄
 
 # 이 파일은 인게임에서 출력되는 메세지 변경이 가능합니다. & 코드를 입력하여 메세지에 색상코드를 입힐 수 있습니다.
 # 구매 관련된 메세지는 반드시 구문에 %Item%과 %price%이 포함되어 있어야 합니다.
 # 블럭갯수와 관련된 메세지는 구문에 %count%을 포함해야 합니다.
 
-messages.prefix: &6HeadDB>
+messages.prefix: &6HeadD> &r
 messages.database: &4Head DB&8&o %count%&8개 머리블럭
 messages.search: &4Head Search&8&o %count%&8개 머리블럭
 messages.page: 페이지
@@ -24,6 +24,7 @@ messages.headItemColor: &9
 messages.categoryColor: &c&l
 messages.categoryLoreColor: &e&o
 
+messages.suggest: &b이 링크에서 추가하고 싶은 머리를 건의할 수 있습니다.:
 messages.noPermission: &c당신은 이 명령어에 대한 권한이 없습니다!
 messages.notEnoughMoney: &c돈이 부족합니다!
 messages.notEnoughSpace: &c인벤토리 공간이 부족합니다!
@@ -41,6 +42,8 @@ messages.chatSearch: &b검색할 단어를 입력하세요.
 messages.databaseStillLoading: &c리로드 중 입니다. 잠시 후 다시 입력하세요!
 messages.customCommandItemName: &c메인 메뉴로 돌아가기
 
+# 카테고리 이름
+
 category.alphabet: 알파벳
 category.animals: 동물
 category.blocks: 블럭
@@ -57,3 +60,18 @@ category.custom3: 사용자 지정3
 category.custom4: 사용자 지정4
 category.custom5: 사용자 지정5
 category.online_players: 온라인 플레이어
+category.disabled: 비활성화
+
+# 기념일 이름
+
+event.halloween: &e할로윈
+event.christmas: &b크리스마스
+event.newYear: &6새해
+event.valentines: &c발렌타인 데이
+event.4thOfJuly: &c미국 독립기념일
+event.easter: &f부활절
+event.winter: &f겨울
+event.summer: &6여름
+event.MayThe4th: &3스타워즈 데이
+event.piDay: &3파이 데이
+event.pokemon: &6포켓몬 데이
