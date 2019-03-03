@@ -25,6 +25,7 @@ messages.categoryColor: &c&l
 messages.categoryLoreColor: &e&o
 
 messages.suggest: &b이 링크에서 추가하고 싶은 머리를 건의할 수 있습니다.:
+messages.submit: &b이 링크에서 머리를 추가할 수 있습니다.:
 messages.noPermission: &c당신은 이 명령어에 대한 권한이 없습니다!
 messages.notEnoughMoney: &c돈이 부족합니다!
 messages.notEnoughSpace: &c인벤토리 공간이 부족합니다!
@@ -36,7 +37,7 @@ messages.moreSpecific: &e좀 더 구체적으로 입력해주세요!
 messages.headsFound: &e머리블럭을 찾았습니다!
 messages.searchForHeads: &c검색
 messages.pluginInfo: &c플러그인 정보
-messages.pluginSuggest: &c이 링크에서 추가하고 싶은 머리를 건의할 수 있습니다.
+messages.pluginSuggest: &c건의
 messages.pluginSuggestLore: &7중복된 머리블럭이 있는지 먼저 확인하세요!
 messages.chatSearch: &b검색할 단어를 입력하세요.
 messages.databaseStillLoading: &c리로드 중 입니다. 잠시 후 다시 입력하세요!
