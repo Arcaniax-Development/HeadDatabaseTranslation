@@ -14,5 +14,6 @@ ru_RU: Russian - RUSSIAN FEDERATION
 ko_KR: Korean - KOREA, REPUBLIC OF
 nl_NL: Dutch - NETHERLANDS
 ro_RO: Romanian - ROMANIA
+uk_UA: Ukrainian - UKRAINE
 
 lc_US: English - LOLCAT (it's a joke)
