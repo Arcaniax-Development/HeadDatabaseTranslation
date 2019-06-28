@@ -1,6 +1,6 @@
 # uk_UA.lang
 
-! &bUsing &3"uk_UA.lang" &btranslated by &6Klapeks
+! &bUsing &3"uk_UA.lang" &btranslated by &6Klapeks and partly edited by Bixi
 
 # Change the messages here, you can use & to use colors.
 # buyMessage must contain %Item% and %price%
@@ -69,10 +69,10 @@ event.halloween: &eХеллоуїн
 event.christmas: &bРіздво
 event.newYear: &6Новий рік
 event.valentines: &cДень святого Валентина
-event.4thOfJuly: &cHappy 4th of July
+event.4thOfJuly: &З Днем Незалежності США
 event.easter: &fВеликдень
 event.winter: &fЗима
 event.summer: &6Літо
-event.MayThe4th: &3May the 4th be with you
+event.MayThe4th: &3Да прибуде з тобою сила
 event.piDay: &3День Pi
 event.pokemon: &6День Pokémon'ів
