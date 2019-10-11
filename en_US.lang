@@ -77,3 +77,6 @@ event.summer: &6Summer
 event.MayThe4th: &3May the 4th be with you
 event.piDay: &3Pi day
 event.pokemon: &6Pokémon Day
+event.pirate: &cTalk Like a Pirate Day
+event.taco: &6Taco Day
+event.mario: &cMario Day
