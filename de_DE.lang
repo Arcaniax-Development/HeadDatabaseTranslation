@@ -41,6 +41,7 @@ messages.pluginSuggestLore: &7Bitte prüfe zuerst die Datenbank!
 messages.chatSearch: &bGebe deine Suche ein (nutze englische Begriffe)
 messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es gleich erneut!
 messages.customCommandItemName: &cZurück zum Hauptmenü
+messages.patience: &cBitte warte einen Moment bevor du dir den nächsten Kopf holen kannst!
 
 # Kategorien
 
