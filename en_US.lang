@@ -42,6 +42,7 @@ messages.pluginSuggestLore: &7Please check the database first!
 messages.chatSearch: &bType in your search input
 messages.databaseStillLoading: &cDatabase is still loading, try again in a second!
 messages.customCommandItemName: &cBack to main menu
+messages.patience: &cPlease wait a moment before getting another head!
 
 # CATEGORY NAMES
 
