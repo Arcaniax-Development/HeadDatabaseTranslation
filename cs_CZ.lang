@@ -40,6 +40,7 @@ messages.pluginSuggestLore: &7Prosím před tím zkontrolujte database!
 messages.chatSearch: &bZadejte něco na vyhledávádní
 messages.databaseStillLoading: &cDatabase se ještě načítá, zkuste to za chvíly znova!
 messages.customCommandItemName: &cZpět k hlavním menu
+messages.patience: &cProsím počkejte chvíly než by jste brali jinou hlavu!
 
 category.alphabet: Abeceda
 category.animals: Zvířata
