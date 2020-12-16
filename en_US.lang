@@ -43,6 +43,7 @@ messages.chatSearch: &bType in your search input
 messages.databaseStillLoading: &cDatabase is still loading, try again in a second!
 messages.customCommandItemName: &cBack to main menu
 messages.patience: &cPlease wait a moment before getting another head!
+messages.overflow: &eThe head you were given was dropped on the ground since your inventory is full!
 
 # CATEGORY NAMES
 
