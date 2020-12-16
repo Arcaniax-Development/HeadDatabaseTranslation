@@ -42,6 +42,7 @@ messages.chatSearch: &bGebe deine Suche ein (nutze englische Begriffe)
 messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es gleich erneut!
 messages.customCommandItemName: &cZurück zum Hauptmenü
 messages.patience: &cBitte warte einen Moment bevor du dir den nächsten Kopf holen kannst!
+messages.overflow: &eDa dein Inventar voll ist, wurde der Kopf auf dem Boden platziert.
 
 # Kategorien
 
