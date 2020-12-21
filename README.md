@@ -13,4 +13,4 @@ This is the repository for translations for HeadDatabase.
 You want to add or update a translation?
 1. Fork this repository
 2. Make changes to a file or add yours
-3. Submit a Pull Request with your changes and I will happily accept it
+3. Submit a Pull Request with your changes, and I will happily accept it
