@@ -1,0 +1,84 @@
+# sk_SK.lang
+
+! &bPoužívate &3"sk_SK.lang" &bpreklad: &6Agrro
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDB> &r
+messages.database: &4Head DB&8 %count% hláv
+messages.search: &4Vyhľadávanie hláv&8 %count% hláv
+messages.page: Strana
+messages.price: &aCena: &2
+messages.heads: hlav
+messages.head: hlava
+messages.other: iné
+messages.loading: &c..Načítá sa..
+messages.recentHeads: &aNedávno pridané
+messages.noPermissionToBuyLore: &cNemáte povolenie
+messages.searchCommand: &7/hdb search [názov]
+messages.pheadCommand: /phead [meno]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bOporučiť hlavy môžete tu:
+messages.submit: &bPoslať hlavy môžete tu:
+messages.noPermission: &cNa to nemáte povolenie!
+messages.notEnoughMoney: &cNa to nemáte dost peňazí!
+messages.notEnoughSpace: &cNa to nemáte dost miesta v inventári!
+messages.buyMessage: &aKúpili ste %item% &aza &2%price%
+messages.backToMenu: &cSpäť do menu
+messages.clickToSearch: &a&n&lKliknite tu&b pre vyhladávánie hláv, a potom zadajte text pre vyhladávánie
+messages.noHeadsFound: &eNeboli nájdené žiadne hlavy, prosím skúste to znovu!
+messages.moreSpecific: &eProsím buďte viac konkrétnejší!
+messages.headsFound: &eNašli sa hlavy!
+messages.searchForHeads: &cVyhľadať hlavy
+messages.pluginInfo: &cInformace o Pluginu
+messages.pluginSuggest: &cTu môžete oporučiť hlavy
+messages.pluginSuggestLore: &7Najskôr si ale pozrite prosím databázu!
+messages.chatSearch: &bZadajte text do vyhľadávania
+messages.databaseStillLoading: &cDatabáza sa ešte načítava, skúste to za chvíľu znova!
+messages.customCommandItemName: &cSpäť do hlavného menu
+messages.patience: &cProsím počkajte chvíľu než si zoberiete ďalšiu hlavu
+messages.overflow: &eHlava, ktorú ste dostali bola upustená na zem pretože je váš inventář plný!
+
+# CATEGORY NAMES
+
+category.alphabet: Abeceda
+category.animals: Zvieratá
+category.blocks: Bloky
+category.decoration: Dekorácie
+category.food_drinks: Jedlo a pitie
+category.humans: Ľudia 
+category.humanoid: Humanoidne
+category.miscellaneous: Rôzne
+category.monsters: Monštrá
+category.plants: Rastliny
+category.custom: Vlastné hlavy na Serveri
+category.custom2: Vlastné hlavy na Serveru 2
+category.custom3: Vlastné hlavy na Serveru 3
+category.custom4: Vlastné hlavy na Serveru 4
+category.custom5: Vlastné hlavy na Serveru 5
+category.online_players: Online Hráči
+category.disabled: Vypnuté
+
+# EVENT NAMES
+
+event.halloween: &eHalloween
+event.christmas: &bVianoce
+event.newYear: &6Šťastný nový rok
+event.valentines: &cValentýn
+event.4thOfJuly: &cDeň nezávislosti
+event.easter: &fVeľká noc
+event.winter: &fZima
+event.summer: &6Leto
+event.MayThe4th: &3May the 4th be with you
+event.piDay: &3Deň pí
+event.pokemon: &6Pokémon Day
+event.pirate: &cTalk Like a Pirate Day
+event.taco: &6Taco Day
+event.mario: &cMario Day
+
