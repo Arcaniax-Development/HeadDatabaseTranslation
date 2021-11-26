@@ -19,5 +19,6 @@ ro_RO: Romanian - ROMANIA
 sk_SK: Slovak - SLOVAKIA
 uk_UA: Ukrainian - UKRAINE
 zh_CN: Chinese simplified
+zh_TW: Traditional Chinese
 
 lc_US: English - LOLCAT (it's a joke)
