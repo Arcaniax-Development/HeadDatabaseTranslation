@@ -33,12 +33,12 @@ messages.clickToSearch: &a&n&lKlik hier&b om naar hoofden te zoeken
 messages.noHeadsFound: &eGeen hoofden gevonden, probeer het opnieuw!
 messages.moreSpecific: &eProbeer specifieker te zijn!
 messages.headsFound: &eHoofden gevonden!
-messages.searchForHeads: &cZoek naar hoofden
+messages.searchForHeads: &cZoeken naar hoofden
 messages.pluginInfo: &cPlugin-info
-messages.pluginSuggest: &cHier kan je nieuwe hoofden suggereren
+messages.pluginSuggest: &cHier kan je nieuwe hoofden voorstellen
 messages.pluginSuggestLore: &7Controleer eerst de database!
 messages.chatSearch: &bVoer uw zoekopdracht in
-messages.databaseStillLoading: &cDe database wordt nog geladen, probeer het strkas nog is!
+messages.databaseStillLoading: &cDe database wordt nog geladen, probeer het straks nog is!
 messages.customCommandItemName: &cTerug naar het hoofdmenu
 messages.patience: &cWacht even voor je nog een hoofd pakt!
 messages.overflow: &eHet hoofd dat aan je gegeven was is op de grond gevallen omdat je inventaris vol is!
