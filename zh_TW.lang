@@ -72,7 +72,7 @@ event.christmas: &b聖誕節
 event.newYear: &6新年
 event.valentines: &c情人節
 event.4thOfJuly: &c國慶日
-event.easter: &f覆活節
+event.easter: &f復活節
 event.winter: &f冬季
 event.summer: &6夏日
 event.MayThe4th: &3原力與你同在
