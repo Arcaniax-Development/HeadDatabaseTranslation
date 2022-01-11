@@ -31,7 +31,7 @@ messages.notEnoughMoney: &c你的錢不夠!
 messages.notEnoughSpace: &c背包內空間不夠
 messages.buyMessage: &a你購買了 %item% &a並花費金錢 &2%price%
 messages.backToMenu: &c返回主選單
-messages.clickToSearch: &a&n&l點擊這里&b 搜索頭顱
+messages.clickToSearch: &a&n&l點擊這裡&b 搜索頭顱
 messages.noHeadsFound: &e沒有找到任何頭顱!
 messages.moreSpecific: &e請詳細一些!
 messages.headsFound: &e找到頭顱!
