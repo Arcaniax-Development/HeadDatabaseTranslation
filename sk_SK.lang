@@ -36,7 +36,7 @@ messages.noHeadsFound: &eNeboli nájdené žiadne hlavy, prosím skúste to znov
 messages.moreSpecific: &eProsím buďte viac konkrétnejší!
 messages.headsFound: &eNašli sa hlavy!
 messages.searchForHeads: &cVyhľadať hlavy
-messages.pluginInfo: &cInformace o Plugine
+messages.pluginInfo: &cInformácie o Plugine
 messages.pluginSuggest: &cTu môžete oporučiť hlavy
 messages.pluginSuggestLore: &7Najskôr si ale pozrite prosím databázu!
 messages.chatSearch: &bZadajte text do vyhľadávania
