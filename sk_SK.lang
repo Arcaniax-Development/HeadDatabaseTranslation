@@ -32,18 +32,18 @@ messages.notEnoughSpace: &cNa to nemáte dost miesta v inventári!
 messages.buyMessage: &aKúpili ste %item% &aza &2%price%
 messages.backToMenu: &cSpäť do menu
 messages.clickToSearch: &a&n&lKliknite tu&b pre vyhladávánie hláv, a potom zadajte text pre vyhladávánie
-messages.noHeadsFound: &eNeboli nájdené žiadne hlavy, prosím skúste to znovu!
+messages.noHeadsFound: &eNeboli nájdené žiadne hlavy, prosím skúste to znova!
 messages.moreSpecific: &eProsím buďte viac konkrétnejší!
 messages.headsFound: &eNašli sa hlavy!
 messages.searchForHeads: &cVyhľadať hlavy
-messages.pluginInfo: &cInformace o Pluginu
+messages.pluginInfo: &cInformace o Plugine
 messages.pluginSuggest: &cTu môžete oporučiť hlavy
 messages.pluginSuggestLore: &7Najskôr si ale pozrite prosím databázu!
 messages.chatSearch: &bZadajte text do vyhľadávania
 messages.databaseStillLoading: &cDatabáza sa ešte načítava, skúste to za chvíľu znova!
 messages.customCommandItemName: &cSpäť do hlavného menu
 messages.patience: &cProsím počkajte chvíľu než si zoberiete ďalšiu hlavu
-messages.overflow: &eHlava, ktorú ste dostali bola upustená na zem pretože je váš inventář plný!
+messages.overflow: &eHlavu, ktorú ste dostali bola upustená na zem pretože váš inventár je plný!
 
 # CATEGORY NAMES
 
@@ -58,10 +58,10 @@ category.miscellaneous: Rôzne
 category.monsters: Monštrá
 category.plants: Rastliny
 category.custom: Vlastné hlavy na Serveri
-category.custom2: Vlastné hlavy na Serveru 2
-category.custom3: Vlastné hlavy na Serveru 3
-category.custom4: Vlastné hlavy na Serveru 4
-category.custom5: Vlastné hlavy na Serveru 5
+category.custom2: Vlastné hlavy na Serveri 2
+category.custom3: Vlastné hlavy na Serveri 3
+category.custom4: Vlastné hlavy na Serveri 4
+category.custom5: Vlastné hlavy na Serveri 5
 category.online_players: Online Hráči
 category.disabled: Vypnuté
 
@@ -81,4 +81,3 @@ event.pokemon: &6Pokémon Day
 event.pirate: &cTalk Like a Pirate Day
 event.taco: &6Taco Day
 event.mario: &cMario Day
-
