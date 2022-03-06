@@ -43,7 +43,7 @@ messages.chatSearch: &bZadejte text do vyhledávání
 messages.databaseStillLoading: &cDatabáze se ještě načítá, zkuste to za chvíli znovu!
 messages.customCommandItemName: &cZpět do hlavního menu
 messages.patience: &cProsím počkejte chvíli než si seberete další hlavu!
-messages.overflow: &eHlava, kterou jste dostali byla upuštěna na zem protože je váš inventář plný!
+messages.overflow: &eHlavu, kterou jste dostali byla upuštěna na zem protože je váš inventář plný!
 
 # CATEGORY NAMES
 
