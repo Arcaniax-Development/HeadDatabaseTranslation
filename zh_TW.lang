@@ -12,7 +12,7 @@
 messages.prefix: &6HeadDB> &r
 messages.database: &4自訂頭顱 &8 %count% 個已載入
 messages.search: &4頭顱查詢 &8 %count% 個頭顱
-messages.page: 頁
+messages.page: 頁面
 messages.price: &a價格: &2
 messages.heads: 頭顱
 messages.head: 頭顱
@@ -34,18 +34,21 @@ messages.submit: &c你可以在這裡提交頭顱:
 messages.noPermission: &c您沒有此節點權限!
 messages.notEnoughMoney: &c您的錢不夠!
 messages.notEnoughSpace: &c您的背包空間不夠
+
+# 此項目必須包含 %Item% 和 %price% 代數
 messages.buyMessage: &a您購買了 %item% &a並花費金錢 &2%price%
+
 messages.backToMenu: &c返回主選單
-messages.clickToSearch: &a&n&l點擊這裡&b 搜索頭顱
+messages.clickToSearch: &a&n&l點擊這裡&b 搜尋頭顱
 messages.noHeadsFound: &e沒有找到任何頭顱!
 messages.moreSpecific: &e請詳細一些!
 messages.headsFound: &e找到頭顱!
-messages.searchForHeads: &c搜索頭顱
+messages.searchForHeads: &c搜尋頭顱
 messages.pluginInfo: &c插件訊息
-messages.pluginSuggest: &c建議頭顱
+messages.pluginSuggest: &c您可以在這裡推薦頭顱
 messages.pluginSuggestLore: &7請先檢查資料庫
-messages.chatSearch: &b輸入你要搜索的內容
-messages.databaseStillLoading: &c頭顱資料庫正在載入中！ 請稍再試！
+messages.chatSearch: &b輸入您想搜尋的內容
+messages.databaseStillLoading: &c頭顱資料庫正在載入中！ 請稍後再試！
 messages.customCommandItemName: &c返回主選單
 messages.patience: &c請稍後才能再得到一個頭顱！
 messages.overflow: &e由於您的背包滿出來，給您的頭顱掉在地上了！
@@ -58,7 +61,7 @@ messages.infoCreator: &b建立者: &a
 messages.infoDatabaseHost: &b資料庫: &a
 
 # CATEGORY NAMES
-category.alphabet: 拉丁字母
+category.alphabet: 字元
 category.animals: 動物
 category.blocks: 方塊
 category.decoration: 裝飾品
@@ -81,7 +84,7 @@ event.halloween: &e萬聖節
 event.christmas: &b耶誕節
 event.newYear: &6新年
 event.valentines: &c情人節
-event.4thOfJuly: &c國慶日
+event.4thOfJuly: &c美國獨立日
 event.easter: &f復活節
 event.winter: &f冬季
 event.summer: &6夏季
