@@ -1,9 +1,12 @@
-# zh_TW.lang
+# zh_TW.lang 
 
-! &bUsing &3"zh_TW.lang" &btranslated by &6Angela_u83(Github:angela0930)
+! &b您正在使用 &3"zh_TW.lang" &b譯者： &6Angela_u83(Github:angela0930)
 
+# 在這裡可以修改顯示訊息，您可以使用"&"來更改顏色。顏色代碼可以參考此網站: https://www.digminecraft.com/lists/color_list_pc.php
 # Change the messages here, you can use & to use colors.
+# messages.buyMessage 必須包含 %Item% 和 %price% 代數
 # buyMessage must contain %Item% and %price%
+# 資料庫可以包含 %count%
 # database can contain %count%
 
 messages.prefix: &6HeadDB> &r
@@ -31,7 +34,10 @@ messages.submit: &c你可以在這裡提交頭顱:
 messages.noPermission: &c您沒有此節點權限!
 messages.notEnoughMoney: &c您的錢不夠!
 messages.notEnoughSpace: &c您的背包空間不夠
+
+# 此項目必須包含 %Item% 和 %price% 代數
 messages.buyMessage: &a您購買了 %item% &a並花費金錢 &2%price%
+
 messages.backToMenu: &c返回主選單
 messages.clickToSearch: &a&n&l點擊這裡&b 搜索頭顱
 messages.noHeadsFound: &e沒有找到任何頭顱!
@@ -55,7 +61,6 @@ messages.infoCreator: &b建立者: &a
 messages.infoDatabaseHost: &b資料庫: &a
 
 # CATEGORY NAMES
-
 category.alphabet: 拉丁字母
 category.animals: 動物
 category.blocks: 方塊
@@ -75,7 +80,6 @@ category.online_players: 線上玩家
 category.disabled: 停用
 
 # EVENT NAMES
-
 event.halloween: &e萬聖節
 event.christmas: &b耶誕節
 event.newYear: &6新年
@@ -83,10 +87,10 @@ event.valentines: &c情人節
 event.4thOfJuly: &c國慶日
 event.easter: &f復活節
 event.winter: &f冬季
-event.summer: &6夏日
+event.summer: &6夏季
 event.MayThe4th: &3原力與你同在
-event.piDay: &3pi日
+event.piDay: &3π日
 event.pokemon: &6Pokémon 日
-event.pirate: &c海盜模仿日
-event.taco: &6墨西哥餅日
-event.mario: &c瑪利歐日						
+event.pirate: &c國際海盜模仿日
+event.taco: &6炸玉米餅日
+event.mario: &c瑪利歐日
