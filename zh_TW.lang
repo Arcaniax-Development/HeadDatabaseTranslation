@@ -34,10 +34,7 @@ messages.submit: &c你可以在這裡提交頭顱:
 messages.noPermission: &c您沒有此節點權限!
 messages.notEnoughMoney: &c您的錢不夠!
 messages.notEnoughSpace: &c您的背包空間不夠
-
-# 此項目必須包含 %Item% 和 %price% 代數
 messages.buyMessage: &a您購買了 %item% &a並花費金錢 &2%price%
-
 messages.backToMenu: &c返回主選單
 messages.clickToSearch: &a&n&l點擊這裡&b 搜索頭顱
 messages.noHeadsFound: &e沒有找到任何頭顱!
