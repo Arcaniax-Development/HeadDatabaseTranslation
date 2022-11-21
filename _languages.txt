@@ -9,7 +9,7 @@ fr_FR: French - FRANCE
 he_IL: Hebrew - ISRAEL
 hu_HU: Hungarian - HUNGARY
 it_IT: Italian - ITALY
-ko_KR: Korean - KOREA, REPUBLIC OF
+ko_KR: Korean - KOREA
 nl_NL: Dutch - NETHERLANDS
 pl_PL: Polish - POLAND
 pt_BR: Portuguese - BRAZIL
@@ -18,7 +18,7 @@ ru_RU: Russian - RUSSIAN FEDERATION
 ro_RO: Romanian - ROMANIA
 sk_SK: Slovak - SLOVAKIA
 uk_UA: Ukrainian - UKRAINE
-zh_CN: Chinese simplified
-zh_TW: Traditional Chinese
+zh_CN: Simplified Chinese - China
+zh_TW: Traditional Chinese - Taiwan
 
 lc_US: English - LOLCAT (it's a joke)

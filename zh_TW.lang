@@ -1,53 +1,67 @@
-# zh_TW.lang
+# zh_TW.lang 
 
-! &bUsing &3"zh_TW.lang" &btranslated by &4TWME
+! &b您正在使用 &3"zh_TW.lang" &b譯者： &6Angela_u83(Github:angela0930)
 
+# 在這裡可以修改顯示訊息，您可以使用"&"來更改顏色。顏色代碼可以參考此網站: https://www.digminecraft.com/lists/color_list_pc.php
 # Change the messages here, you can use & to use colors.
+# messages.buyMessage 必須包含 %Item% 和 %price% 代數
 # buyMessage must contain %Item% and %price%
+# 資料庫可以包含 %count%
 # database can contain %count%
 
-messages.prefix: &6頭顱系統> &r
-messages.database: &4自定義頭顱 &8 %count% 個已加載
-messages.search: &4頭顱搜索 &8 %count% 個頭顱
-messages.page: 頁
+messages.prefix: &6HeadDB> &r
+messages.database: &4自訂頭顱 &8 %count% 個已載入
+messages.search: &4頭顱查詢 &8 %count% 個頭顱
+messages.page: 頁面
 messages.price: &a價格: &2
 messages.heads: 頭顱
 messages.head: 頭顱
 messages.other: 其它
-messages.loading: &c..加載中..
+messages.loading: &c載入中,請稍後...
 messages.recentHeads: &e新加入
-messages.noPermissionToBuyLore: &c沒有權限
+messages.noPermissionToBuyLore: &c您沒有權限或沒有足夠的資金購買此頭顱
 messages.searchCommand: &7/hdb search [input]
 messages.pheadCommand: /phead [name]
 messages.loreColor: &8
 messages.headItemColor: &9
 messages.categoryColor: &c&l
 messages.categoryLoreColor: &e
+messages.error: 錯誤:
+messages.errorColor: &4
 
-messages.suggest: &c建議頭顱:
-messages.submit: &c提交頭顱:
-messages.noPermission: &c你沒有權限!
-messages.notEnoughMoney: &c你的錢不夠!
-messages.notEnoughSpace: &c背包內空間不夠
-messages.buyMessage: &a你購買了 %item% &a並花費金錢 &2%price%
+messages.suggest: &c你可以在這裡推薦頭顱:
+messages.submit: &c你可以在這裡提交頭顱:
+messages.noPermission: &c您沒有此節點權限!
+messages.notEnoughMoney: &c您的錢不夠!
+messages.notEnoughSpace: &c您的背包空間不夠
+
+# 此項目必須包含 %Item% 和 %price% 代數
+messages.buyMessage: &a您購買了 %item% &a並花費金錢 &2%price%
+
 messages.backToMenu: &c返回主選單
-messages.clickToSearch: &a&n&l點擊這里&b 搜索頭顱
+messages.clickToSearch: &a&n&l點擊這裡&b 搜尋頭顱
 messages.noHeadsFound: &e沒有找到任何頭顱!
 messages.moreSpecific: &e請詳細一些!
 messages.headsFound: &e找到頭顱!
-messages.searchForHeads: &c搜索頭顱
+messages.searchForHeads: &c搜尋頭顱
 messages.pluginInfo: &c插件訊息
-messages.pluginSuggest: &c建議頭顱
-messages.pluginSuggestLore: &7請先檢查數據庫
-messages.chatSearch: &b輸入你要搜索的內容
-messages.databaseStillLoading: &c頭顱數據庫正在加載中！ 請稍等一會再進行此操作
+messages.pluginSuggest: &c您可以在這裡推薦頭顱
+messages.pluginSuggestLore: &7請先檢查資料庫
+messages.chatSearch: &b輸入您想搜尋的內容
+messages.databaseStillLoading: &c頭顱資料庫正在載入中！ 請稍後再試！
 messages.customCommandItemName: &c返回主選單
-messages.patience: &c冷卻中，稍後才能得到另一個頭顱!
-messages.overflow: &e由於您的背包已滿，您獲得的頭顱掉在了地上!
+messages.patience: &c請稍後才能再得到一個頭顱！
+messages.overflow: &e由於您的背包滿出來，給您的頭顱掉在地上了！
+
+
+# INFO COMMAND
+messages.infoVersion: &b插件版本: &a
+messages.infoHeadAmount: &b此資料庫有 &a%amount% &b個頭顱資料.
+messages.infoCreator: &b建立者: &a
+messages.infoDatabaseHost: &b資料庫: &a
 
 # CATEGORY NAMES
-
-category.alphabet: 字母
+category.alphabet: 字元
 category.animals: 動物
 category.blocks: 方塊
 category.decoration: 裝飾品
@@ -57,27 +71,26 @@ category.humanoid: 人形
 category.miscellaneous: 雜物
 category.monsters: 怪物
 category.plants: 植物
-category.custom: 自定義
-category.custom2: 自定義 2
-category.custom3: 自定義 3
-category.custom4: 自定義 4
-category.custom5: 自定義 5
-category.online_players: 在線玩家
-category.disabled: 禁用
+category.custom: 自訂
+category.custom2: 自訂 2
+category.custom3: 自訂 3
+category.custom4: 自訂 4
+category.custom5: 自訂 5
+category.online_players: 線上玩家
+category.disabled: 停用
 
 # EVENT NAMES
-
 event.halloween: &e萬聖節
-event.christmas: &b聖誕節
+event.christmas: &b耶誕節
 event.newYear: &6新年
 event.valentines: &c情人節
-event.4thOfJuly: &c國慶日
-event.easter: &f覆活節
+event.4thOfJuly: &c美國獨立日
+event.easter: &f復活節
 event.winter: &f冬季
-event.summer: &6夏日
-event.MayThe4th: &3原力與你同在
-event.piDay: &3派對
-event.pokemon: &6寶可夢
+event.summer: &6夏季
+event.MayThe4th: &3星際大戰日
+event.piDay: &3π日
+event.pokemon: &6Pokémon 日
 event.pirate: &c國際海盜模仿日
 event.taco: &6炸玉米餅日
-event.mario: &c國際馬利歐節
+event.mario: &c瑪利歐日
