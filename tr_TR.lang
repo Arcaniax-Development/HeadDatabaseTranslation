@@ -1,0 +1,83 @@
+! # tr_TR.lang
+
+! &bUsing default &3"tr_TR.lang" &bcreated by &6Arcaniax
+
+# Change the messages here, you can use & to use colors.
+# buyMessage must contain %Item% and %price%
+# database can contain %count%
+
+messages.prefix: &6HeadDatabase> &r
+messages.database: &4HeadDatabase&8 %count% Kafa
+messages.search: &4HeadDatabase&8 %count% Kafa
+messages.page: Sayfa
+messages.price: &aFiyat: &2
+messages.heads: kafalar
+messages.head: kafa
+messages.other: diğer
+messages.loading: &c..Yükleniyor..
+messages.recentHeads: &aSon eklenenler
+messages.noPermissionToBuyLore: &cİzin Yok
+messages.searchCommand: &7/hdb ara [giriş]
+messages.pheadCommand: /phead [isim]
+messages.loreColor: &8
+messages.headItemColor: &9
+messages.categoryColor: &c&l
+messages.categoryLoreColor: &e
+
+messages.suggest: &bKafaları burada önerebilirsiniz:
+messages.submit: &bKafaları buraya gönderebilirsiniz:
+messages.noPermission: &cBunu yapmaya izniniz yok!
+messages.notEnoughMoney: &cBunu yapmak için yeterli paranız yok!
+messages.notEnoughSpace: &cEnvanterinizde yeterli alan yok!
+messages.buyMessage: &a%item% &aiçin &2%price% &asatın aldınız
+messages.backToMenu: &cMenüye geri dön
+messages.clickToSearch: &a&n&lBuraya tıklayın&b kafa aramak için
+messages.noHeadsFound: &eKafa bulunamadı, tekrar deneyin!
+messages.moreSpecific: &eLütfen daha spesifik olun!
+messages.headsFound: &eKafalar bulundu!
+messages.searchForHeads: &cKafalar için ara
+messages.pluginInfo: &cEklenti bilgisi
+messages.pluginSuggest: &cKafaları burada ö3May the 4th be with younerebilirsiniz
+messages.pluginSuggestLore: &7Lütfen önce veritabanını kontrol edin!
+messages.chatSearch: &bArama girişinizi yazın
+messages.databaseStillLoading: &cVeritabanı hala yükleniyor, bir saniye sonra tekrar deneyin!
+messages.customCommandItemName: &cAna menüye geri dön
+messages.patience: &cLütfen başka bir kafa almadan önce biraz bekleyin!
+messages.overflow: &eSize verilen kafa envanteriniz dolu olduğu için yere düştü!
+
+# KATEGORİ ADLARI
+
+category.alphabet: Alfabe
+category.animals: Hayvanlar
+category.blocks: Bloklar
+category.decoration: Dekorasyon
+category.food_drinks: Yiyecek ve İçecekler
+category.humans: İnsanlar
+category.humanoid: Humanoid
+category.miscellaneous: Çeşitli
+category.monsters: Canavarlar
+category.plants: Bitkiler
+category.custom: Özel Sunucu Kafaları
+category.custom2: Özel Sunucu Kafaları 2
+category.custom3: Özel Sunucu Kafaları 3
+category.custom4: Özel Sunucu Kafaları 4
+category.custom5: Özel Sunucu Kafaları 5
+category.online_players: Çevrimiçi Oyuncular
+category.disabled: Devre Dışı Bırakıldı
+
+# ETKİNLİK ADLARI
+
+event.halloween: &eCadılar Bayramı
+event.christmas: &bNoel
+event.newYear: &6Yeni Yıl
+event.valentines: &cSevgililer Günü
+event.4thOfJuly: &c4Temmuz Kutlu Olsun
+event.easter: &fPaskalya
+event.winter: &fKış
+event.summer: &6Yaz
+event.MayThe4th: &3Dördüncüsü seninle olsun
+event.piDay: &3Pi günü
+event.pokemon: &6Pokémon Günü
+event.pirate: &cKorsan Gibi Konuşma Günü
+event.taco: &6Taco Günü
+event.mario: &cMario Günü
