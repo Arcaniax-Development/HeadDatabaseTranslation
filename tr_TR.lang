@@ -1,6 +1,6 @@
 ! # tr_TR.lang
 
-! &bUsing default &3"tr_TR.lang" &bcreated by &6Arcaniax
+! &bUsing &3"tr_TR.lang" &btranslated by &6Mali
 
 # Change the messages here, you can use & to use colors.
 # buyMessage must contain %Item% and %price%
@@ -17,7 +17,7 @@ messages.other: diğer
 messages.loading: &c..Yükleniyor..
 messages.recentHeads: &aSon eklenenler
 messages.noPermissionToBuyLore: &cİzin Yok
-messages.searchCommand: &7/hdb ara [giriş]
+messages.searchCommand: &7/hdb search [giriş]
 messages.pheadCommand: /phead [isim]
 messages.loreColor: &8
 messages.headItemColor: &9
@@ -37,7 +37,7 @@ messages.moreSpecific: &eLütfen daha spesifik olun!
 messages.headsFound: &eKafalar bulundu!
 messages.searchForHeads: &cKafalar için ara
 messages.pluginInfo: &cEklenti bilgisi
-messages.pluginSuggest: &cKafaları burada ö3May the 4th be with younerebilirsiniz
+messages.pluginSuggest: &cKafaları burada önerebilirsiniz
 messages.pluginSuggestLore: &7Lütfen önce veritabanını kontrol edin!
 messages.chatSearch: &bArama girişinizi yazın
 messages.databaseStillLoading: &cVeritabanı hala yükleniyor, bir saniye sonra tekrar deneyin!
