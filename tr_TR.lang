@@ -1,6 +1,6 @@
 ! # tr_TR.lang
 
-! &bUsing &3"tr_TR.lang" &btranslated by &6Mali
+! &bUsing &3"tr_TR.lang" &btranslated by &6Xandaro
 
 # Change the messages here, you can use & to use colors.
 # buyMessage must contain %Item% and %price%
@@ -16,7 +16,7 @@ messages.head: kafa
 messages.other: diğer
 messages.loading: &c..Yükleniyor..
 messages.recentHeads: &aSon eklenenler
-messages.noPermissionToBuyLore: &cİzin Yok
+messages.noPermissionToBuyLore: &cYetkiniz Yok
 messages.searchCommand: &7/hdb search [giriş]
 messages.pheadCommand: /phead [isim]
 messages.loreColor: &8
@@ -26,14 +26,14 @@ messages.categoryLoreColor: &e
 
 messages.suggest: &bKafaları burada önerebilirsiniz:
 messages.submit: &bKafaları buraya gönderebilirsiniz:
-messages.noPermission: &cBunu yapmaya izniniz yok!
+messages.noPermission: &cBunu yapmaya yetkiniz yok!
 messages.notEnoughMoney: &cBunu yapmak için yeterli paranız yok!
 messages.notEnoughSpace: &cEnvanterinizde yeterli alan yok!
 messages.buyMessage: &a%item% &aiçin &2%price% &asatın aldınız
 messages.backToMenu: &cMenüye geri dön
-messages.clickToSearch: &a&n&lBuraya tıklayın&b kafa aramak için
+messages.clickToSearch: &bKafa aramak için &a&n&lburaya tıklayın
 messages.noHeadsFound: &eKafa bulunamadı, tekrar deneyin!
-messages.moreSpecific: &eLütfen daha spesifik olun!
+messages.moreSpecific: &eLütfen daha özgün olun!
 messages.headsFound: &eKafalar bulundu!
 messages.searchForHeads: &cKafalar için ara
 messages.pluginInfo: &cEklenti bilgisi
@@ -43,7 +43,7 @@ messages.chatSearch: &bArama girişinizi yazın
 messages.databaseStillLoading: &cVeritabanı hala yükleniyor, bir saniye sonra tekrar deneyin!
 messages.customCommandItemName: &cAna menüye geri dön
 messages.patience: &cLütfen başka bir kafa almadan önce biraz bekleyin!
-messages.overflow: &eSize verilen kafa envanteriniz dolu olduğu için yere düştü!
+messages.overflow: &eVerilen kafa, envanteriniz dolu olduğu için yere düştü!
 
 # KATEGORİ ADLARI
 
@@ -53,7 +53,7 @@ category.blocks: Bloklar
 category.decoration: Dekorasyon
 category.food_drinks: Yiyecek ve İçecekler
 category.humans: İnsanlar
-category.humanoid: Humanoid
+category.humanoid: İnsansı
 category.miscellaneous: Çeşitli
 category.monsters: Canavarlar
 category.plants: Bitkiler
