@@ -20,5 +20,6 @@ sk_SK: Slovak - SLOVAKIA
 uk_UA: Ukrainian - UKRAINE
 zh_CN: Simplified Chinese - China
 zh_TW: Traditional Chinese - Taiwan
+tr_TR: Türkçe - TÜRKİYE
 
 lc_US: English - LOLCAT (it's a joke)
